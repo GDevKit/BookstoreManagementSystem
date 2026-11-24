@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BookstoreManagement.Application/bin/Debug/net10.0
+/BookstoreManagement.Application/obj
+/BookstoreManagementSystem.Data/obj
+/BookstoreManagement.Data/obj
+/BookstoreManagement.Common/obj
+/BookstoreManagement.BusinessLogic/bin/Debug/net10.0
+/BookstoreManagement.BusinessLogic/obj
+/BookstoreManagement.Common/bin/Debug/net10.0
+/BookstoreManagement.Data/bin/Debug/net10.0
