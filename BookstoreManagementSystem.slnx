@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BookstoreManagement.Application/BookstoreManagement.Application.csproj" />
+  <Project Path="BookstoreManagement.BusinessLogic/BookstoreManagement.BusinessLogic.csproj" />
+  <Project Path="BookstoreManagement.Common/BookstoreManagement.Common.csproj" />
+  <Project Path="BookstoreManagement.Data/BookstoreManagement.Data.csproj" />
+</Solution>
